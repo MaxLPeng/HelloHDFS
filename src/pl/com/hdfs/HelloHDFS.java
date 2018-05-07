@@ -17,7 +17,7 @@ public class HelloHDFS {
 
 	final static String FS_DEFAULTFS 		= "hdfs://NameNode01:9000"; 
 	//final static String FS_DEFAULTFS 		= "hdfs://namecluster1"; 
-	final static String DFS_PATH_ROOT 		= "/test";
+	final static String DFS_PATH_ROOT 		= "/test/in";
 	final static String DFS_FILE 			= "/HDFSHello.data";
 	final static String Local_PATH 			= "e:/tmp";
 	final static String Local_FILE 			= "/HDFSHello.txt";
